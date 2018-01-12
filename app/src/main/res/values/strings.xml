@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Procrastina2</string>
-    <string name="first_button">First Button</string>
+    <string name="hello_world">Hello world</string>
+    <string name="button_text">Click</string>
+    <string name="action_settings">Action settings</string>
+    <string name="msg">Hi</string>
 </resources>

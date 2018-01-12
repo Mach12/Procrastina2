@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Procrastina2</string>
-    <string name="first_button">Premier Bouton</string>
+    <string name="hello_world">Salut le monde</string>
+    <string name="button_text">Cliquer</string>
+    <string name="action_settings">Paramètres d'action</string>
+    <string name="msg">Coucou</string>
 </resources>
