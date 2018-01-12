@@ -7,6 +7,7 @@
     tools:context="com.pixelmod.procrastina2.MainActivity">
 
     <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_bier"
         android:layout_width="match_parent"
         android:layout_height="0dp">
 
